@@ -1,0 +1,17 @@
+Total users: 2
+Total tasks: 3
+
+User: admin
+ - Tasks assigned: 2
+ - % of total tasks: 66.67%
+ - % completed: 0.00%
+ - % incomplete: 100.00%
+ - % overdue: 100.00%
+
+User: luke
+ - Tasks assigned: 1
+ - % of total tasks: 33.33%
+ - % completed: 0.00%
+ - % incomplete: 100.00%
+ - % overdue: 100.00%
+
