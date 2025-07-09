@@ -1,7 +1,0 @@
-admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, yes
-queen, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
-john, toilets, clean the toilets, 6 Aug, 2 Aug 2020, No
-admin, a, a, 21 june 2018, 4 May 2019, No
-admin, a, a, 21 june 2018, 4 May 2023, No
-deez, adminn, title, 20 Dec 2000, 20 Dec 2000, No
-deez, a, a, 20 June 2000, 1 Dec 2022, No
